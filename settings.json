@@ -1,0 +1,20 @@
+{
+  "default_workspace": "/Users/jluo/workspace",
+  "onboarding_completed": true,
+  "send_key": "enter",
+  "show_token_usage": true,
+  "show_cli_sessions": true,
+  "sync_to_insights": false,
+  "check_for_updates": true,
+  "theme": "dark",
+  "skin": "poseidon",
+  "language": "zh",
+  "bot_name": "Hermes Agent",
+  "sound_enabled": true,
+  "notifications_enabled": true,
+  "show_thinking": true,
+  "sidebar_density": "compact",
+  "auto_title_refresh_every": "20",
+  "busy_input_mode": "steer",
+  "password_hash": null
+}

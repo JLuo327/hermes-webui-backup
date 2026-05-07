@@ -1,0 +1,9 @@
+# Large runtime data - never backup
+*.db
+*.db-shm
+*.db-wal
+upload/
+logs/
+*.log
+nohup.log
+.DS_Store
